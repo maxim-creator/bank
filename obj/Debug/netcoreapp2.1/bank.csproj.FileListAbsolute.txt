@@ -1,0 +1,11 @@
+C:\Users\2311\Desktop\МП31\михайлов\bank\bin\Debug\netcoreapp2.1\bank.deps.json
+C:\Users\2311\Desktop\МП31\михайлов\bank\bin\Debug\netcoreapp2.1\bank.runtimeconfig.json
+C:\Users\2311\Desktop\МП31\михайлов\bank\bin\Debug\netcoreapp2.1\bank.runtimeconfig.dev.json
+C:\Users\2311\Desktop\МП31\михайлов\bank\bin\Debug\netcoreapp2.1\bank.dll
+C:\Users\2311\Desktop\МП31\михайлов\bank\bin\Debug\netcoreapp2.1\bank.pdb
+C:\Users\2311\Desktop\МП31\михайлов\bank\obj\Debug\netcoreapp2.1\bank.csprojAssemblyReference.cache
+C:\Users\2311\Desktop\МП31\михайлов\bank\obj\Debug\netcoreapp2.1\bank.AssemblyInfoInputs.cache
+C:\Users\2311\Desktop\МП31\михайлов\bank\obj\Debug\netcoreapp2.1\bank.AssemblyInfo.cs
+C:\Users\2311\Desktop\МП31\михайлов\bank\obj\Debug\netcoreapp2.1\bank.dll
+C:\Users\2311\Desktop\МП31\михайлов\bank\obj\Debug\netcoreapp2.1\bank.pdb
+C:\Users\2311\Desktop\МП31\михайлов\bank\obj\Debug\netcoreapp2.1\bank.csproj.CoreCompileInputs.cache
